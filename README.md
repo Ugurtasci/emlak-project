@@ -11,4 +11,4 @@ Bu proje, emlak sektörüne ilişkin sade ve kullanışlı bir web sitesini olu�
 
  <h3>Ekran Görüntüsü</h3>
 
- ![](ekran görüntüsü.gif)
+ ![](ekran-görüntüsü.gif)
